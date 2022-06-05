@@ -1,1 +1,2 @@
-Add your description here.
+
+Practice refactoring JavaScript code, destructuring an object, and converting normal functions into arrow function expressions
